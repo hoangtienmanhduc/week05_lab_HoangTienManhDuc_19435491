@@ -12,7 +12,7 @@ Request: Implement paging function.
 ## Feature
 pagination
 ## Feature: 
-- List, create, update
+- List, create, update, Page number
 ![z4929868252832_59999e3e39091d2e54dbceaabd4a182c](https://github.com/hoangtienmanhduc/fe_doantotnghiep/assets/99623646/25e2e425-4879-4e4f-a91e-7222d7a437c2)
 ![z4931443017832_d0f2c00023d61e2295969a8732f1ebee](https://github.com/hoangtienmanhduc/fe_doantotnghiep/assets/99623646/f8b9f360-403e-43bc-a2a7-c85ff98f6b25)
 ![z4931443017832_d0f2c00023d61e2295969a8732f1ebee](https://github.com/hoangtienmanhduc/fe_doantotnghiep/assets/99623646/f8b9f360-403e-43bc-a2a7-c85ff98f6b25)
